@@ -42,7 +42,7 @@ export default function CTA() {
           </Link>
 
           <Link
-            href="tel:+2348000000000"
+            href="tel:+2348131359504"
             className="inline-flex items-center justify-center rounded-xl border border-white/20 px-8 py-4 font-semibold text-white transition hover:bg-white/10"
           >
             <PhoneCall className="mr-2 h-5 w-5" />
